@@ -6,7 +6,8 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 <img src="screenshots/1.png">
-<img src="screenshots/2.png">
+
+<img src="screenshots/2.png" style="width:200px;height:121px;">
 <img src="screenshots/3.png">
 <img src="screenshots/4.png">
 <img src="screenshots/5.png">
